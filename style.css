@@ -215,3 +215,9 @@ body{
 .container.active .toggle-right{
     transform: translateX(200%);
 }
+
+@media screen and (max-width:780px) {
+    .container {
+        width: 80%;
+    }
+}
