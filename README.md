@@ -8,7 +8,7 @@ Este projeto foi uma ótima oportunidade para:
 - Praticar posicionamento e estilização com Flexbox;
 - Trabalhar a organização e clareza visual em interfaces de autenticação.
 
-## 🧪 Tecnologias Utilizadas
+## 👨‍💻 Tecnologias Utilizadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
