@@ -1,6 +1,6 @@
 # Tela de Login Moderna
-🖥️ Tela de Login criada para teste de habilidades.
+🖥️ Projeto responsivo criado com ajuda de vídeos no Youtube.
 
-🎲 Feito com conhecimentos básicos de HTML, CSS e um pouco de JavaScript.
+🕛 Criada em 2023.
 
-🕛 Feito em 2023.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
