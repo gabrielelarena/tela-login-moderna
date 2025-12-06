@@ -5,8 +5,6 @@
   Projeto focado em aprimorar habilidades de UI e boas práticas de layout.
 </p>
 
-<hr>
-
 <h2>📂 Estrutura dos Arquivos</h2>
 
 <ul>
@@ -16,8 +14,6 @@
   <li><strong>LICENSE</strong> — Informações de licença</li>
   <li><strong>README.md</strong> — Documentação do projeto</li>
 </ul>
-
-<hr>
 
 <h2>🎓 O que Foi Aprendido</h2>
 
@@ -29,13 +25,9 @@
   <li>✨ Melhoria na organização de código HTML e CSS.</li>
 </ul>
 
-<hr>
-
 <h2> 👨‍💻 Tecnologias Utilizadas </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-<hr>
 
 <h2>🚀 Objetivo do Projeto</h2>
 
