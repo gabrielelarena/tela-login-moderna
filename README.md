@@ -6,7 +6,6 @@
 </p>
 
 <h2>📂 Estrutura dos Arquivos</h2>
-
 <ul>
   <li><strong>index.html</strong> — Estrutura da página</li>
   <li><strong>style.css</strong> — Estilização e design responsivo</li>
@@ -15,8 +14,9 @@
   <li><strong>README.md</strong> — Documentação do projeto</li>
 </ul>
 
-<h2>O que Foi Aprendido</h2>
+<br>
 
+<h2>O que Foi Aprendido</h2>
 <ul>
   <li>📱 Aplicação de conceitos de <strong>responsividade</strong> com CSS;</li>
   <li>🧩 Prática de <strong>Flexbox</strong> para alinhamento e posicionamento;</li>
@@ -25,8 +25,9 @@
   <li>✨ Melhoria na organização de código HTML e CSS.</li>
 </ul>
 
-<h2>Objetivo do Projeto</h2>
+<br>
 
+<h2>Objetivo do Projeto</h2>
 <p>
   Desenvolver uma tela de login moderna, simples e elegante, ideal para uso em sistemas, apps ou portfólios.
   O foco principal foi treinar a criação de layouts profissionais utilizando apenas HTML e CSS.
