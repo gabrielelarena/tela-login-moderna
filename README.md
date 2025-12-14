@@ -15,7 +15,7 @@
   <li><strong>README.md</strong> — Documentação do projeto</li>
 </ul>
 
-<h2>🎓 O que Foi Aprendido</h2>
+<h2>O que Foi Aprendido</h2>
 
 <ul>
   <li>📱 Aplicação de conceitos de <strong>responsividade</strong> com CSS;</li>
@@ -25,11 +25,11 @@
   <li>✨ Melhoria na organização de código HTML e CSS.</li>
 </ul>
 
-<h2> 👨‍💻 Tecnologias Utilizadas </h2>
+<h2> Tecnologias Utilizadas </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-<h2>🚀 Objetivo do Projeto</h2>
+<h2>Objetivo do Projeto</h2>
 
 <p>
   Desenvolver uma tela de login moderna, simples e elegante, ideal para uso em sistemas, apps ou portfólios.
