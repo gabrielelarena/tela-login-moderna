@@ -25,10 +25,6 @@
   <li>✨ Melhoria na organização de código HTML e CSS.</li>
 </ul>
 
-<h2> Tecnologias Utilizadas </h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
 <h2>Objetivo do Projeto</h2>
 
 <p>
