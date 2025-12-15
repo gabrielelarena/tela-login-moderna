@@ -1,7 +1,6 @@
 <div align="center">
-	
-<img width="150" height="150" alt="download" src="https://github.com/user-attachments/assets/2e4f1b91-1d99-462b-968c-b088f4dc1c18" />
 
+<img width="150" height="150" alt="download" src="https://github.com/user-attachments/assets/a26742eb-ea7b-4d06-9f1f-4530fbd88053" />
 <h1 align="center"><strong>Tela de Login Moderna</strong></h1>
   <p align="center"a>
     Uma interface de login <strong>responsiva</strong>, <strong>moderna</strong> e <strong>minimalista</strong>, desenvolvida com base em tutoriais do YouTube. Projeto focado em aprimorar habilidades de UI e boas práticas de layout.
@@ -32,7 +31,7 @@ tela-login-moderna/
 <br> 
 
 ## Objetivo do Projeto
-<p>Criar um blog fictício sobre o mundo das plantas, contendo posts, imagens e conteúdo informativo apenas para fins demonstrativos. O projeto também serve como peça de portfólio, mostrando domínio de estruturação e responsividade.</p>
+<p>Desenvolver uma tela de login moderna, simples e elegante, ideal para uso em sistemas, apps ou portfólios. O foco principal foi treinar a criação de layouts profissionais utilizando apenas HTML e CSS.</p>
 
 <br>
 
@@ -51,11 +50,3 @@ tela-login-moderna/
   <li>Uso adequado de tipografia, espaçamento e proporções;</li>
   <li>Melhoria na organização de código HTML e CSS.</li>
 </ul>
-
-<br>
-
-## Objetivo do Projeto
-<p>
-  Desenvolver uma tela de login moderna, simples e elegante, ideal para uso em sistemas, apps ou portfólios.
-  O foco principal foi treinar a criação de layouts profissionais utilizando apenas HTML e CSS.
-</p>
