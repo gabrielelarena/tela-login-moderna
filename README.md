@@ -18,11 +18,11 @@
 
 <h2>O que Foi Aprendido</h2>
 <ul>
-  <li>📱 Aplicação de conceitos de <strong>responsividade</strong> com CSS;</li>
-  <li>🧩 Prática de <strong>Flexbox</strong> para alinhamento e posicionamento;</li>
-  <li>🎨 Construção de uma interface limpa, clara e intuitiva;</li>
-  <li>🔤 Uso adequado de tipografia, espaçamento e proporções;</li>
-  <li>✨ Melhoria na organização de código HTML e CSS.</li>
+  <li>Aplicação de conceitos de <strong>responsividade</strong> com CSS;</li>
+  <li>Prática de <strong>Flexbox</strong> para alinhamento e posicionamento;</li>
+  <li>Construção de uma interface limpa, clara e intuitiva;</li>
+  <li>Uso adequado de tipografia, espaçamento e proporções;</li>
+  <li>Melhoria na organização de código HTML e CSS.</li>
 </ul>
 
 <br>
