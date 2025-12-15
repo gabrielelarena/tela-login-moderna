@@ -38,7 +38,6 @@ tela-login-moderna/
 ## Pré-requisitos
 
 * **Vs Code**
-* **Pacotes de estilização do Bootstrap**
 
 <br>
 
