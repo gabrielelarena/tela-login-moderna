@@ -5,7 +5,7 @@
   Projeto focado em aprimorar habilidades de UI e boas práticas de layout.
 </p>
 
-<h2>📂 Estrutura dos Arquivos</h2>
+<h2>Estrutura dos Arquivos</h2>
 <ul>
   <li><strong>index.html</strong> — Estrutura da página</li>
   <li><strong>style.css</strong> — Estilização e design responsivo</li>
